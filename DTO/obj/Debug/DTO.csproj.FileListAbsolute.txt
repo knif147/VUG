@@ -1,0 +1,6 @@
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\DTO\bin\Debug\DTO.dll.config
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\DTO\bin\Debug\DTO.dll
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\DTO\bin\Debug\DTO.pdb
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\DTO\obj\Debug\DTO.dll
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\DTO\obj\Debug\DTO.pdb

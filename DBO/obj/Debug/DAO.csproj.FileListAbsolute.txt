@@ -1,0 +1,8 @@
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\DBO\bin\Debug\DBO.dll
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\DBO\bin\Debug\DBO.pdb
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\DBO\bin\Debug\DTO.dll
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\DBO\bin\Debug\DTO.pdb
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\DBO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\DBO\obj\Debug\DBO.dll
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\DBO\obj\Debug\DBO.pdb
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\DBO\bin\Debug\DBO.dll.config

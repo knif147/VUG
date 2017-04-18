@@ -1,0 +1,15 @@
+c:\users\trantrung\documents\visual studio 2013\Projects\VUG\VUG\bin\Debug\VUG.exe.config
+c:\users\trantrung\documents\visual studio 2013\Projects\VUG\VUG\obj\Debug\VUG.csprojResolveAssemblyReference.cache
+c:\users\trantrung\documents\visual studio 2013\Projects\VUG\VUG\obj\Debug\VUG.Properties.Resources.resources
+c:\users\trantrung\documents\visual studio 2013\Projects\VUG\VUG\obj\Debug\VUG.csproj.GenerateResource.Cache
+c:\users\trantrung\documents\visual studio 2013\Projects\VUG\VUG\bin\Debug\VUG.exe
+c:\users\trantrung\documents\visual studio 2013\Projects\VUG\VUG\bin\Debug\VUG.pdb
+c:\users\trantrung\documents\visual studio 2013\Projects\VUG\VUG\bin\Debug\BUS.dll
+c:\users\trantrung\documents\visual studio 2013\Projects\VUG\VUG\bin\Debug\DTO.dll
+c:\users\trantrung\documents\visual studio 2013\Projects\VUG\VUG\bin\Debug\BUS.pdb
+c:\users\trantrung\documents\visual studio 2013\Projects\VUG\VUG\bin\Debug\DTO.pdb
+c:\users\trantrung\documents\visual studio 2013\Projects\VUG\VUG\obj\Debug\VUG.exe
+c:\users\trantrung\documents\visual studio 2013\Projects\VUG\VUG\obj\Debug\VUG.pdb
+c:\users\trantrung\documents\visual studio 2013\Projects\VUG\VUG\bin\Debug\DBO.dll
+c:\users\trantrung\documents\visual studio 2013\Projects\VUG\VUG\bin\Debug\DBO.pdb
+C:\Users\TranTrung\documents\visual studio 2013\Projects\VUG\VUG\obj\Debug\VUG.bntLoadDs.resources

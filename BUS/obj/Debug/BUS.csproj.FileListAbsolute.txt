@@ -1,0 +1,10 @@
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\BUS\bin\Debug\BUS.dll
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\BUS\bin\Debug\BUS.pdb
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\BUS\bin\Debug\DBO.dll
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\BUS\bin\Debug\DTO.dll
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\BUS\bin\Debug\DBO.pdb
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\BUS\bin\Debug\DTO.pdb
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\BUS\obj\Debug\BUS.dll
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\BUS\obj\Debug\BUS.pdb
+c:\Users\trantrung\documents\visual studio 2013\Projects\VUG\BUS\bin\Debug\BUS.dll.config
